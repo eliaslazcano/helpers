@@ -1,0 +1,15 @@
+{
+  "name": "eliaslazcano-helpers",
+  "version": "1.0.0",
+  "description": "Manipule dados com simplicidade",
+  "main": "index.js",
+  "keywords": [
+    "helper"
+  ],
+  "author": {
+    "name": "Elias Lazcano Castro Neto",
+    "email": "elias304162@gmail.com",
+    "url": "https://github.com/eliaslazcano"
+  },
+  "license": "MIT"
+}
